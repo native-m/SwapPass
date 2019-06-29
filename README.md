@@ -12,7 +12,7 @@ To use this, use SwapPass with ASI Loader or inject the DLL manually into the ga
    It will automatically generate a Visual Studio 2015/2017 project.  
    Or alternatively you can also specify your Visual Studio version  
    with this command ```$ ./premake5 vs[version_number]```, where ```version_number``` is the  
-   version of your Visual Studio (currently SwapPass only support VS2015 and VS2017).
+   version of your Visual Studio (currently SwapPass only support VS2015 and VS2017).  
    The generated project files are available inside ```\build``` folder.
 2. Open the project inside your Visual Studio.
 3. Build it.

@@ -1,6 +1,6 @@
 # SwapPass
 
-SwapPass allows you to pass a custom post-processing shader into game screen buffer.
+SwapPass allows you to pass a custom post-processing shader into game screen buffer.  
 WARNING IT STILL IN DEVELOPMENT AND EXPERIMENTAL, STILL NOT DONE YET!
 
 
